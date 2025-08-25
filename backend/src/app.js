@@ -5,7 +5,7 @@ const app = express();
 const cors = require('cors');
 
 app.use(cors({
-	origin: "https://mutiny-land.vercel.app",
+	origin: "*",
     credentials: true,
 }));
 app.use(express.json({
