@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/prapti/MutinyLandingPage/frontend/components/duo-synth.tsx/proxy.mjs"],"sourcesContent":["import { registerClientReference } from \"react-server-dom-turbopack/server.edge\";\nexport const DuoSynth = registerClientReference(\n    function() { throw new Error(\"Attempted to call DuoSynth() from the server but DuoSynth is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.\"); },\n    \"[project]/components/duo-synth.tsx <module evaluation>\",\n    \"DuoSynth\",\n);\n"],"names":[],"mappings":";;;AAAA;;AACO,MAAM,WAAW,CAAA,GAAA,qPAAA,CAAA,0BAAuB,AAAD,EAC1C;IAAa,MAAM,IAAI,MAAM;AAAgO,GAC7P,0DACA","debugId":null}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":["file:///home/prapti/MutinyLandingPage/frontend/components/duo-synth.tsx/proxy.mjs"],"sourcesContent":["import { registerClientReference } from \"react-server-dom-turbopack/server.edge\";\nexport const DuoSynth = registerClientReference(\n    function() { throw new Error(\"Attempted to call DuoSynth() from the server but DuoSynth is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.\"); },\n    \"[project]/components/duo-synth.tsx\",\n    \"DuoSynth\",\n);\n"],"names":[],"mappings":";;;AAAA;;AACO,MAAM,WAAW,CAAA,GAAA,qPAAA,CAAA,0BAAuB,AAAD,EAC1C;IAAa,MAAM,IAAI,MAAM;AAAgO,GAC7P,sCACA","debugId":null}},
+    {"offset": {"line": 35, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}}]
+}
